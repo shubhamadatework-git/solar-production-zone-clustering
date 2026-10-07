@@ -31,8 +31,8 @@ K-Means produced four zone types:
 
 DBSCAN found one dense core group and treated the unusual zones as noise, so K-Means gave the more useful segmentation here.
 
-![PCA comparison](images/pca_comparison_plot.png)
-![Cluster heatmap comparison](images/heatmap_comparison_plot.png)
+![PCA comparison](pca_comparison_plot.png)
+![Cluster heatmap comparison](heatmap_comparison_plot.png)
 
 ## Business use
 - Different go-to-market approaches by zone type (upgrades and storage in saturated areas, commercial sales in large-scale areas)
